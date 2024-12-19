@@ -6,7 +6,7 @@
 
 ## Get your own demo on AlibabaCloud
 
-[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://pre-acs.console.aliyun.com/quick-deploy?repo=taosher/cloud-on-k8s&branch=master)
+[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://pre-acs.console.aliyun.com/quick-deploy?repo=taosher/cloud-on-k8s&branch=master){:target="_blank"}
 
 ## Introduction
 
