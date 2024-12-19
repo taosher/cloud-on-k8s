@@ -6,7 +6,7 @@
 
 ## Get your own demo on AlibabaCloud
 
-[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://pre-acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/dapr.git&branch=master)
+[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://pre-acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/cloud-on-k8s.git&branch=master)
 
 ## Introduction
 
